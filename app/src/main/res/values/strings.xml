@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Practice14</string>
+    <string name="email">Введите email</string>
+    <string name="user_name">Введите имя</string>
+    <string name="user_age">Введите свой возраст</string>
+    <string name="redaction">Отредактируйте свои данные</string>
+    <string name="send_data">Передать данные</string>
+    <string name="example_email">sirius@email.com</string>
+</resources>
